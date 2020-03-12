@@ -1,0 +1,24 @@
+{
+  "name": "gameserver",
+  "version": "1.0.0",
+  "description": "Project belongs to Isac Diamant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsacDiamant/git-test.git"
+  },
+  "author": "Isac Diamant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsacDiamant/git-test/issues"
+  },
+  "homepage": "https://github.com/IsacDiamant/git-test#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "shortid": "^2.2.15",
+    "socket.io": "^2.3.0"
+  }
+}
